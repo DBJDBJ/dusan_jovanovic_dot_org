@@ -15,14 +15,14 @@ font = "default"
 description = "DBJ.Systems Knippets&trade;"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "dbj-system-logo"
+sharing_image = "dbj-system-logo.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "dbjdbj"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "dbj-system-logo"
+logo = "dbj-system-logo.jpg"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
