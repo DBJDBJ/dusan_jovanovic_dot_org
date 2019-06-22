@@ -44,7 +44,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
    cta_label = ""
-   cta_url = "#about.dbj"
+   cta_url = "#about"
    cta_icon_pack = "fas"
    cta_icon = "address-card"
 
@@ -58,7 +58,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
    cta_label = ""
-   cta_url = "#about.dbj"
+   cta_url = "#about"
    cta_icon_pack = "fas"
    cta_icon = "address-card"
 
@@ -72,7 +72,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
    cta_label = ""
-   cta_url = "#about.dbj"
+   cta_url = "#about"
    cta_icon_pack = "fas"
    cta_icon = "address-card"
 
@@ -86,7 +86,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
    cta_label = ""
-   cta_url = "#about.dbj"
+   cta_url = "#about"
    cta_icon_pack = "fas"
    cta_icon = "address-card"
 
