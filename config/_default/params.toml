@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "dark"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -51,14 +51,14 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "info@dbj.systems"
-phone = "+44 20 33 55 89 85"
-address = "21 Sunnignfiels Rd, London, UK, NW4 4QR"
+phone = "" # "+44 20 33 55 89 85"
+address = "" # "21 Sunnignfiels Rd, London, UK, NW4 4QR"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "" # "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -85,11 +85,11 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 2
+map = 0
 map_api_key = ""
 latitude = "51.592299"
 longitude = "-0.226124"
-zoom = 15
+zoom = 8
 
 ############################
 ## Plugins                ##
@@ -106,7 +106,7 @@ plugins_js  = []
 ############################
 
 # Get user avatars from Gravatar.com? (true/false)
-gravatar = false
+gravatar = true
 
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = false
