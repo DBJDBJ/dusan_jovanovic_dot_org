@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -35,59 +35,59 @@ height = "calc(100vh - 70px)"
 #   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "DBJ"
-  content = "Guidance"
+  title = "Guidance"
+  content = ""
   align = "Left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "dbj-tastatura-Cloud-computing-i-logo-1024x683.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-   cta_label = ""
-   cta_url = "#about"
-   cta_icon_pack = "fas"
-   cta_icon = "address-card"
+#
+#   cta_label = ""
+#   cta_url = "#about"
+#   cta_icon_pack = "fas"
+#   cta_icon = "address-card"
 
 [[item]]
-  title = "DBJ"
-  content = "Authority"
+  title = "Authority"
+  content = ""
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "dbj-tastatura-compliance-i-logo-1024x683.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-   cta_label = ""
-   cta_url = "#about"
-   cta_icon_pack = "fas"
-   cta_icon = "address-card"
+#
+#   cta_label = ""
+#   cta_url = "#about"
+#   cta_icon_pack = "fas"
+#   cta_icon = "address-card"
 
 [[item]]
-  title = "DBJ"
-  content = "Feasibility"
+  title = "Feasibility"
+  content = ""
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "dbj-tastatura-near-shoring-i-logo-1024x683.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-   cta_label = ""
-   cta_url = "#about"
-   cta_icon_pack = "fas"
-   cta_icon = "address-card"
+#
+#   cta_label = ""
+#   cta_url = "#about"
+#   cta_icon_pack = "fas"
+#   cta_icon = "address-card"
 
 [[item]]
-  title = "DBJ"
-  content = "Leadership"
+  title = "Leadership"
+  content = ""
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "dbj-tastatura-dbj-i-logo-1024x683.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-   cta_label = ""
-   cta_url = "#about"
-   cta_icon_pack = "fas"
-   cta_icon = "address-card"
+#
+#   cta_label = ""
+#   cta_url = "#about"
+#   cta_icon_pack = "fas"
+#   cta_icon = "address-card"
 
 +++
