@@ -29,13 +29,12 @@ projects: []
 
 # Enable comments by entering your Disqus shortname
 disqusShortname : ""
-
 ---
 
 
-> All content on this site is owned and © Dusan B. Jovanovic (in further text “DBJ”).
+> All content on this site is owned and © by Dusan B. Jovanovic (in further text “DBJ”).
 
-For browser cookie management please [see here](http://www.aboutcookies.org.uk/managing-cookies).
+For explanation on browser cookie management please [see here](http://www.aboutcookies.org.uk/managing-cookies).
 
 ## Commitment to protect the Information about you
 
@@ -77,4 +76,4 @@ We will hold information about you only for as long as is necessary (subject to 
 
 ### How do we achieve these promises we just made to you?
 
-Our internal systems are implemented using  Microsoft Azure. Our business email is hosted by Microsoft Exchange Online.  Both systems are known in the industry as the best for getting close to the ideal of full compliance.
+Our internal systems are implemented using  [Microsoft Azure](http://azure.microsoft.com/en-gb/). Our business email is hosted by [Microsoft Exchange Online](https://products.office.com/en-us/exchange/exchange-online).  Both systems are known in the industry as the best for getting close to the ideal of full compliance.

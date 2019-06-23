@@ -4,7 +4,7 @@
     {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
   {{ end }}
   &nbsp;&nbsp;&amp;&nbsp;&nbsp;
-  {{ with site.GetPage "disclaimer.md" }}
+  {{ with site.GetPage "disclaimer" }}
     {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
   {{ end }}
  </p>

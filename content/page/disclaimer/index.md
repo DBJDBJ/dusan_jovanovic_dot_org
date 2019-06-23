@@ -31,6 +31,8 @@ projects: []
 disqusShortname : ""
 
 ---
+
+![Disclaimer Ilustration](featured.jpg)
 ### All content on this site is © Dušan B. Jovanović (DBJ)
 
 All rights are reserved. Unless otherwise indicated on the Website, the Content on the Website is owned by or licensed to DBJ and is subject to copyright.In consideration of DBJ allowing you to access and use the Website you grant to DBJ a non exclusive, payment free, perpetual, irrevocable licence to reproduce, modify, delete, adapt, translate, combine and publish any Content you post, upload or otherwise transmit via Communications Services (User Material) and to sub-licence the same for such purposes as DBJ determines from time to time.Where you have any moral rights in User Material you agree to waive any rights in the same and will not otherwise enforce your moral rights in any User Material.
