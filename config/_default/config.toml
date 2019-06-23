@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year} by DBJ.Systems UK Ltd."
+copyright = "&copy; {year} by Dušan B. Jovanović"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -65,3 +65,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+# added by DBJ
+[permalinks]
+    post = "/:slug"
+    project = "/:slug"
