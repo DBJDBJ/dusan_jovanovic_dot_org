@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Project: My Mermaid Diagrams"
-summary: "Testing Mermaid Diagrams"
+title: "Project: TEST A"
+summary: "Testing HUGO Academic Projects making and management"
 authors: ["dbj"]
 tags: ["test"]
 categories: ["test-category"]
