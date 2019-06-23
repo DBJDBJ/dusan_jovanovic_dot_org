@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dusan "DBJ" Jovanovic
+name: Dušan Jovanović
 
 # Username (this should match the folder name)
 authors:
@@ -62,12 +62,12 @@ email: "dbj@dbj.org"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Architects
+# user_groups:
+# - Researchers
+# - Architects
 ---
 
-Dusan "DBJ" Jovanovic role is to make IT projects a sucess.
+Dušan Jovanović (DBJ) primary role is to make IT projects a sucess.
 As an pragmatist, he is mastering  the communications based on [TOGAF&trade;](https://www.opengroup.org/togaf).
 
 DBJ acts as Programme Director, Chief Architect and Design Authority, very often on behalf of clients.

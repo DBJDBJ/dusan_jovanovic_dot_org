@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "DBJ.Systems"
+title = "" # "Dušan B. Jovanović"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -19,7 +19,8 @@ copyright = "&copy; {year} by Dušan B. Jovanović"
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "dusanjovanovic"
+# disqusShortname = "dusanjovanovic"
+disqusShortname = "dbjdbj"
 
 ############################
 ## Advanced options below ##
