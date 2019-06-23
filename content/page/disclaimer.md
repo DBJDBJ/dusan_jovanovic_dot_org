@@ -26,6 +26,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+# Enable comments by entering your Disqus shortname
+disqusShortname : ""
+
 ---
 ### All content on this site is © Dušan B. Jovanović (DBJ)
 
